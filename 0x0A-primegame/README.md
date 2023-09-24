@@ -1,7 +1,7 @@
 
 Curriculum
 Short Specializations
-Average: 57.16%
+Average: 65.37%
 We're moving to Discord!
 In a few days, we will be leaving Slack in favor of Discord 🎉
 Click here for more information
@@ -77,4 +77,5 @@ GitHub repository: alx-interview
 Directory: 0x0A-primegame
 File: 0-prime_game.py
     
-Copyright © 2023 ALX, All rights reserved.
+Copyright © 2023 ALX, All rights reserved.:wq
+
